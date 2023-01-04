@@ -1,49 +1,18 @@
-### Hi there 👋, Stefan
-#### Design and Development
+<h1>Stefan Tosic</h1>
+Hello everyone👋,<br> welcome to my github, I am a student of Tehnical School in Pirot, 3rd year IT major, and here you can find some of my projects.
+<br>
+<br>
+
 ![Design and Development](https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## Skills and Experience
 
-Skills: C++ / C# / JS / HTML / CSS
+* 📱 C# 
+* 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on this page. 
+## Most Used Languages
 
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Pozdrav svima!</h1>
-<head>
-
-<body>
-Moje ime je Stefan Tosic, ucenik sam Tehnicke skole u Pirotu i ovo su neki moji projekti:
-
-<br>
-<h2>HTML/CSS/JS</h2>
-
-Moji solo projekti:
-
-
-
-Projekti za skolu:
-
-
-Zajednicki projekti:
-
-
-<br>
-<h2>C#</h2>
-
-Projekti za skolu:
-
-</body>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toosic)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
