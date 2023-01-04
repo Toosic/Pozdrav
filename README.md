@@ -1,6 +1,4 @@
-### Hi there 👋
 
-### Hi there
 <h1 align="center">Pozdrav svima!</h1>
 <head>
 
