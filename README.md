@@ -3,6 +3,7 @@ Hello everyone👋,<br> welcome to my github, I am a student of Tehnical School 
 <br>
 <br>
 
+<a href = "https://toosic.github.io/Veb-Programiranje-sajt-/"> <i>Kviz iz sociologije sa nivoima </i><b>(HTML, CSS, JS)</b></a>
 ![Design and Development](https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif)
 
 ## Skills and Experience
