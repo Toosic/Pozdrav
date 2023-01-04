@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+### Hi there
+<h1 align="center">Pozdrav svima!</h1>
+<head>
+
+<body>
+Moje ime je Stefan Tosic, ucenik sam Tehnicke skole u Pirotu i ovo su neki moji projekti:
+
+<br>
+<h2>HTML/CSS/JS</h2>
+
+Moji solo projekti:
+
+
+
+Projekti za skolu:
+
+
+Zajednicki projekti:
+
+
+<br>
+<h2>C#</h2>
+
+Projekti za skolu:
+
+</body>
+
+
+
+
 <!--
 **Toosic/Toosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
