@@ -5,7 +5,7 @@ Hello everyone👋,<br> welcome to my github, I am a student of Tehnical School 
 
 <a href="https://toosic.github.io/MySite/">MOJ SAJT</a>
 
-<a href="https://toosic.github.io/Sajt-iz-Veb-programiranje/">Sajt za kraj polgudje</a>
+<a href=https://toosic.github.io/BMWM2/>Sajt za kraj polgudje</a>
 
 ![Design and Development](https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif)
 
