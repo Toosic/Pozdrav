@@ -3,7 +3,7 @@ Hello everyone👋,<br> welcome to my github, I am a student of Tehnical School 
 <br>
 <br>
 
-<a href="https://toosic.github.io/Moj-sajt/">MOJ SAJT</a>
+<a href="https://toosic.github.io/MySite/">MOJ SAJT</a>
 
 <a href="https://toosic.github.io/Sajt-iz-Veb-programiranje/">Sajt za kraj polgudje</a>
 
