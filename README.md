@@ -3,9 +3,7 @@ Hello everyone👋,<br> welcome to my github, I am a student of Tehnical School 
 <br>
 <br>
 
-<a href="https://toosic.github.io/MySite/">MOJ SAJT</a>
-
-<a href=https://toosic.github.io/BMWM2/>Sajt za kraj polgudje</a>
+If you want to know more about me or see some of my projects, you can see on <a href="https://toosic.github.io/MySite/">MY SITE</a>.
 
 ![Design and Development](https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif)
 
